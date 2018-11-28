@@ -1,0 +1,15 @@
+[package]
+name = "contructor-derive"
+version = "0.1.0"
+authors = ["Flier Lu <flier.lu@gmail.com>"]
+
+[lib]
+name = "contructor_derive"
+proc-macro = true
+
+[dependencies]
+syn = { version = "0.15", features = ["full", "extra-traits"] }
+quote = "0.6"
+proc-macro2 = "0.4"
+
+[dev-dependencies]
