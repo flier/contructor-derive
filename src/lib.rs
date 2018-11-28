@@ -14,7 +14,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! contructor_derive = "0.1.0"
+//! contructor_derive = "0.1"
 //! ```
 //!
 //! Example

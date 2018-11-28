@@ -1,4 +1,4 @@
-contructor_derive [![Build Status](https://api.travis-ci.org/flier/contructor-derive.svg?branch=master)](https://travis-ci.org/flier/contructor-derive) [![Latest Version](https://img.shields.io/crates/v/contructor_derive.svg)](https://crates.io/crates/contructor_derive) [![Rust Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/contructor-derive)
+contructor_derive [![Build Status](https://travis-ci.org/flier/contructor-derive.svg?branch=master)](https://travis-ci.org/flier/contructor-derive) [![Latest Version](https://img.shields.io/crates/v/contructor_derive.svg)](https://crates.io/crates/contructor_derive) [![Rust Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/contructor-derive)
 ====
 
 Registers a function to be called before/after main (if an executable)
