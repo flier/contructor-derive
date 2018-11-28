@@ -7,7 +7,7 @@ description = "Registers a function to be called before/after main (if an execut
 repository = "https://github.com/flier/contructor-derive"
 documentation = "https://docs.rs/contructor_derive/"
 keywords = ["constructor", "destructor", "init", "term"]
-categories = ["development-tools::external-ffi-bindings"]
+categories = ["development-tools::ffi"]
 readme = "README.md"
 include = ["Cargo.toml", "src/**/*.rs", "tests/**/*.rs", "README.md", "LICENSE-APACHE", "LICENSE-MIT"]
 
